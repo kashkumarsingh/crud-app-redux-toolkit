@@ -22,5 +22,5 @@ Tailwind CSS (3.3.2)
 Open http://localhost:3175 to view the app in the browser.
  
 # Future Improvements
-Add form validation to prevent empty tasks from being added.
-Improve UI and UX.
+1. Add form validation to prevent empty tasks from being added.
+2. Improve UI and UX.
