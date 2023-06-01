@@ -1,5 +1,6 @@
 # Vite React Redux Toolkit Todo App
-A simple TODO app using React 18.2.0, Redux Toolkit 1.9.5, and React-Redux with local storage.
+A simple TODO app using React 18.2.0, Redux Toolkit 1.9.5, react-router-dom 6.11.2, and React-Redux with localstorage.
+
 This project is a simple Todo application built with Vite, React, Redux Toolkit and styled with Tailwind CSS.
 
 # Technologies Used
