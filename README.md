@@ -14,8 +14,8 @@ Tailwind CSS (3.3.2)
 3. Persist tasks across sessions using Local Storage.
 
 # Setup and Installation
-1. Clone this repository: git clone https://github.com/<your-username>/vite-react-redux-toolkit-todo.git
-2. Navigate into the project directory: cd vite-react-redux-toolkit-todo
+1. Clone this repository: git clone https://github.com/kashkumarsingh/crud-app-redux-toolkit.git
+2. Navigate into the project directory: cd crud-app-redux-toolkit
 3. Install the dependencies: npm install
 4. Start the development server: npm run dev
 Open http://localhost:3175 to view the app in the browser.
